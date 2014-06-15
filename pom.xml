@@ -13,6 +13,11 @@
       <version>4.11</version>
     </dependency>
     <dependency>
+      <groupId>org.assertj</groupId>
+      <artifactId>assertj-core</artifactId>
+      <version>1.6.1</version>
+    </dependency>
+    <dependency>
       <groupId>ru.stqa.selenium</groupId>
       <artifactId>webdriver-factory</artifactId>
       <version>1.1.41</version>
@@ -23,6 +28,11 @@
         </exclusion>
       </exclusions>
     </dependency>
+    <dependency>
+	  <groupId>biz.futureware.mantis</groupId>
+	  <artifactId>mantis-axis-soap-client</artifactId>
+	  <version>1.2.15</version>
+	</dependency>
   </dependencies>
   <build>
     <plugins>
