@@ -15,7 +15,7 @@ public class AssertionsTest {
 
   @Test
   public void testAssert() {
-    Assert.assertEquals(2 * 2, 5);
+    Assert.assertEquals(5, 2 * 2);
   }
 
   @Test
