@@ -33,6 +33,16 @@
 	  <artifactId>mantis-axis-soap-client</artifactId>
 	  <version>1.2.15</version>
 	</dependency>
+	<dependency>
+      <groupId>com.tngtech.java</groupId>
+      <artifactId>junit-dataprovider</artifactId>
+      <version>1.6.0</version>
+    </dependency>
+    <dependency>
+      <groupId>pl.pragmatists</groupId>
+      <artifactId>JUnitParams</artifactId>
+      <version>1.0.2</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
