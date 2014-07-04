@@ -1,0 +1,4 @@
+ru.stqa.trainings.junit.tricky4.sample30.Test2
+ru.stqa.trainings.junit.tricky4.sample30.Test1
+ru.stqa.trainings.junit.tricky4.sample30.Test1
+ru.stqa.trainings.junit.tricky4.sample30.Test2
